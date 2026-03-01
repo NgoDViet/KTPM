@@ -42,7 +42,3 @@ Loop Count: infinite
 Sử dụng HTTP Request Defaults để cấu hình URL cơ sở
 Thực hiện GET đến 2 trang con khác nhau
 
-
-Average Response Time: (ghi số liệu)
-
-Error %: (ghi số liệu)
